@@ -1,4 +1,5 @@
-Диаграмма классов (код)
+Диаграмма классов текст (код)
+
 
 @startuml
 skinparam class {
@@ -6,9 +7,11 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class "P?" as P {
- M?
-O? A? (I?, C?)
+class "Веб-дизайнер" as Веб-дизайнер {
+  PhotoShop
+Макет Разрабатывать (Наброски, Крайний срок)
 }
 hide circle
 @enduml
+
+диаграмма классов
