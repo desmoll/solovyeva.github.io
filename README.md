@@ -127,6 +127,6 @@
 
 ### [Курсовой проект]
   
-Текст курсового проекта можно посмотреть [по ссылке](https://github.com/lerchicperch/Labs/blob/master/Kursovaya/KURS_SOLOVYEVA.pdf).
+Текст курсового проекта можно посмотреть [по ссылке](https://github.com/github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/KURS_SOLOVYEVA.pdf).
 
 
