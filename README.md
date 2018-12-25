@@ -23,7 +23,7 @@
 ***
 * Диаграмма IDEF0 - А0 "Разрабатывать дизайн веб-сайта"
 
-![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/IDEF0%20 A0.png)
+![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/IDEF0%20A0.png)
 
 * Диаграмма IDEF0 - декомпозиция А0 в А1-А2-А3 по принципу Plan-Do-Check
 
@@ -33,7 +33,7 @@
 
 ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/DFD.png)
 
-* [Диаграммы второй лабораторной работы в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/Модель.rsf)
+* [Диаграммы в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/Модель.rsf)
 ***
 
 ### Лабораторная работа №3
