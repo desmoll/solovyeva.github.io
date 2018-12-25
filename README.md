@@ -15,7 +15,7 @@
 #### Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
 * [Текст](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Текст%20диаграммы%20классов.txt) и рисунок диаграммы классов <br>
-![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Диаграмма%20классов.png) 
+![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Диаграмма%20классов.png) 
 
 * [Текст](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Текст%20диаграммы%20прецедентов.txt) и рисунок диаграммы классов <br>
 ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Диаграмма%20прецедентов.png) 
