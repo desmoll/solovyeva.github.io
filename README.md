@@ -8,9 +8,9 @@
 
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://github.com/solovyeva/Laba1/Модель.png)
+![none](https://github.com/desmoll/solovyeva/Laba1/Модель.png)
 
-* [IDEF0-диаграмма в формате .rsf](https://github.com/solovyeva/Laba1/Модель.rsf)
+* [IDEF0-диаграмма в формате .rsf](https://github.com/desmoll/solovyeva/Laba1/Модель.rsf)
 
 #### Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
