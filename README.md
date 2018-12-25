@@ -87,7 +87,7 @@
 
 ![A111-A112](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/IDEF0%20A11.png)
 
-* Декомпозиция блока А12 "Резервирование комнат"
+* Декомпозиция блока А12 "Оформление заселения"
 
 ![A121-A123](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/IDEF0%20A12.png)
  
@@ -97,93 +97,43 @@
 
 ### Разработка диаграмм в RAMUS - декомпозиция всех автоматизируемых блоков в DFD
 
-* Декомпозиция блока А11 "Создание проекта и добавление участников"
+* Диаграмма А0 
 
-![A11](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A11.png)
+![A0](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/DFD%201%20A0.png)
 
-* Декомпозиция блока А12 "Заполнение инфо о проекте и базовой документации"
+* Декомпозиция блока А1 "Деятельность администратора хостела"
 
-![A12](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A12.png)
+![A1](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/DFD%202%20A0.png)
 
-* Декомпозиция блока А13 "Создание общего чата и календаря"
+* Декомпозиция блока А2 "Работа с гостями"
 
-![A13](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A13.png)
+![A13](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/DFD%20A2.png)
 
-* Декомпозиция блока А33 "Подбор цветовой палитры"
+* Декомпозиция блока А3 "Работа с бронированиями"
 
-![A33](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A33.png)
-
-* Декомпозиция блока А34 "Составление мудборда"
-
-![A34](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A34.png)
-
-* Декомпозиция блока А53 "Проверка соответствия"
-
-![A53](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A53.png)
-
-* Декомпозиция блока А54 "Сбор документации"
-
-![A54](https://github.com/lerchicperch/Labs/blob/master/Lab5/DFD_A54.png)
-
+![A33](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/DFD%20A3.png)
 
 ### Лабораторная работа №6 - подготовка диаграмм UML курсового проекта
 ***
 ### Завершение идентификации всех потоков
 
-* Построение ERD (диаграммы классов без атрибутов) для всех потоков с помощью инструента PlantUml
-![Data](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram%20date.png)
-
-* Загрузка модели и диаграммы классов в репозиторий
-
-(Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram%20date.png) и [текст для построения диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_date%20text.txt) в PlantUml)
+* Построение ERD (диаграммы классов без атрибутов) для всех потоков.
+![Data](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/ERD%20Потоки.png)
 
 ### Завершение идентификации всех ролей
 
-* Построение ERD (диаграммы классов без атрибутов) для всех ролей с помощью инструента PlantUml
-![Roles](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_roles.png)
-
-* Загрузка модели и диаграммы классов в репозиторий
-
-(Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_roles.png) и [текст для построения диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_roles.txt) в PlantUml)
+* Построение ERD (диаграммы классов без атрибутов) для всех ролей.
+![Roles](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/ERD%20Роли.png)
 
 ### Завершение идентификации всех модулей
 
-* Построение ERD (диаграммы классов без атрибутов) для всех модулей с помощью инструента PlantUml
-![Modules](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules.png)
+* Построение ERD (диаграммы классов без атрибутов) для всех модулей.
+![Modules](https://github.com/desmoll/solovyeva.github.io/blob/master/Kursovaya/ERD%20Модели.png)
 
 * Загрузка модели и диаграммы классов в репозиторий
 
-(Смотреть [файл диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules.png) и [текст для построения диаграммы](https://github.com/lerchicperch/Labs/blob/master/Lab6/Diagram_modules%20text.txt) в PlantUml)
 
-* Завершение редактирования readme.md.
-
-### [Курсовой проект](https://github.com/lerchicperch/Labs/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9F%D1%80%D0%98%D0%A1%20%D0%91%D0%B0%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F.docx)
-
-Основная задача курсового проекта - демонстрация навыков интерпретации построенных в ходе лабораторных работ моделей, включая следующие основные шаги:
-
-* **Определение числовых показателей для поставленной цели моделирования**
-  - уточнение вопросов, на которые должна ответить модель
-  - формализация вопросов и определение показателей
-  - определение единиц измерения для каждого показателя
-* **Определение числовых показателей для цели потенциального проекта автоматизации**
-  - формализация показателей качества для автоматизируемых процессов
-  - определение зависимости показателей качества от степени автоматизированности процессов
-  - расчет потенциального эффекта от выполнения проекта автоматизации
-
-После завершения интерпретации необходимо также выполнить оценку затрат на реализацию проекта:
-
-* **Определение числовых показателей для трудозатрат на разработку программных средств**
-  - определение числа и сложности функциональных точек для модулей
-  - определение числа и сложности функциональных точек для хранилищ
-  - расчет сложности разработки методом FPA/IFPUG
-  - расчет трудозатрат на разработку "с нуля" методом COCOMO II
-
-* **Завершение оформления курсового проекта**
-  - создание документа в формате Word
-  - отправка документа на проверку в электронной форме
-  - исправление полученных замечаний
-  - сохранение курсового проекта в архиве
-  - представление подписанного титульного листа в бумажном виде
+### [Курсовой проект]
   
 Текст курсового проекта можно посмотреть [по ссылке](https://github.com/lerchicperch/Labs/blob/master/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BF%D0%BE%20%D0%9F%D1%80%D0%98%D0%A1%20%D0%91%D0%B0%D1%80%D0%BC%D0%B8%D0%BD%D0%B0%20%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F.docx).
 
