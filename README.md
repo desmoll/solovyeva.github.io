@@ -8,7 +8,7 @@
 
 * IDEF0-диаграмма в развернутом виде:
 
-![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Модель.png)
+![none](https://github.com/desmoll/blob/master/Laba1/Модель.png)
 
 * [IDEF0-диаграмма в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Модель.rsf)
 
