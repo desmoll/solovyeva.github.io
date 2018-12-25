@@ -2,9 +2,7 @@
 
 ## Выполнил студент группы [ИДБ-15-13](https://github.com/stankin/design-2018/wiki/list-idb-15-13) Соловьева Л.В.
 
-### Лабораторная работа №1
-
-#### Создание IDEF0-диаграммы "Обновление приложения мо методологии Agile" в RAMUS (программное средство разработки структурно-функциональных моделей)
+### Лабораторная работа №1.
 
 * IDEF0-диаграмма в развернутом виде:
 
@@ -12,7 +10,7 @@
 
 * [IDEF0-диаграмма в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Модель.rsf)
 
-#### Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
+#### Создание диаграммы классов и диаграммы прецедентов в PLANTUML.
 
 * [Текст](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Текст%20диаграммы%20классов.txt) и рисунок диаграммы классов <br>
 ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Диаграмма%20классов.png) 
@@ -21,21 +19,21 @@
 ![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba1/Диаграмма%20прецедентов.png) 
 ***
 
-### Лабораторная работа №2 - определение подсистемы и надсистемы.
+### Лабораторная работа №2.
 ***
-* Диаграмма IDEF0 - А0 "Cоздавать дизайн-макет web-сайта"
+* Диаграмма IDEF0 - А0 "Разрабатывать дизайн веб-сайта"
 
-![none](https://github.com/lerchicperch/Labs/blob/master/Lab2/lab2%20(idef0%20A0).png)
+![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/IDEF0%20 A0.png)
 
 * Диаграмма IDEF0 - декомпозиция А0 в А1-А2-А3 по принципу Plan-Do-Check
 
-![none](https://github.com/lerchicperch/Labs/blob/master/Lab2/lab2%20(idef0%20A1%2C%20A2%2C%20A3).png)
+![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/IDEF0%20A1,%20A2,%20A3.png)
 
 * Диаграмма DFD - декомпозиция А3 "Сборка макета"
 
-![none](https://github.com/lerchicperch/Labs/blob/master/Lab2/lab2%20(DFD).png)
+![none](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/DFD.png)
 
-* [Диаграммы второй лабораторной работы в формате .rsf](https://github.com/lerchicperch/Labs/blob/master/Lab2/Lab2.rsf)
+* [Диаграммы второй лабораторной работы в формате .rsf](https://github.com/desmoll/solovyeva.github.io/blob/master/Laba2/Модель.rsf)
 ***
 
 ### Лабораторная работа №3
